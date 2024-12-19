@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrishKumar89
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning Computer Science
 - 😄 Pronouns: He/Him
 
